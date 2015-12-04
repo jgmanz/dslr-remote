@@ -1,0 +1,1 @@
+# Enumeration type of returned Errors by Canon EOS SDK #

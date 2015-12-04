@@ -1,0 +1,1 @@
+Remotesoftware to control your Canon DSLR with your computer.
